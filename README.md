@@ -6,7 +6,7 @@ Obsidian notes and React references for repeatable website development.
 
 ## Open in Obsidian
 
-1. [Download](https://github.com/Fai1th/Website-Dev-Obsidian-Vault/archive/refs/heads/main.zip) and extract the repository, or clone it.
+1. [Download](https://github.com/AbsolxteAnsh/Website-Dev-Obsidian-Vault/archive/refs/heads/main.zip) and extract the repository, or clone it.
 2. Choose **Open folder as vault** in Obsidian and select the **`vault`** folder.
 3. Open **[START HERE](vault/START%20HERE.md)**. No community plugins required.
 
@@ -39,6 +39,6 @@ See [source adoption](vault/04%20React/Source%20Adoption.md) and [attribution](T
 
 ## Support
 
-[![Support me on Buy Me a Coffee](docs/assets/support.svg)](https://buymeacoffee.com/fai1th)
+[![Support me on Buy Me a Coffee](docs/assets/support.svg)](https://buymeacoffee.com/AbsolxteAnsh)
 
 [Contributing](CONTRIBUTING.md) · [Changelog](CHANGELOG.md) · [MIT license](LICENSE)
